@@ -1,0 +1,5 @@
+{
+  "name": "PDF Profile Maker",
+  "description": "A web application that takes company information as input and uses the Gemini API to generate a professional, multi-page company profile PDF, complete with custom branding, rewritten content, and a clean, modern design.",
+  "requestFramePermissions": []
+}
